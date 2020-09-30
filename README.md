@@ -16,6 +16,9 @@ CentOS
 # Download
 `wget https://raw.githubusercontent.com/AmirOVH/speedtest/master/st.py`
 
+or
+
+`curl https://raw.githubusercontent.com/AmirOVH/speedtest/master/st.py`
 
 Usage
 -----
